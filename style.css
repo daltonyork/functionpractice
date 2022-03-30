@@ -1,0 +1,18 @@
+body {
+    background-color: #233142;
+    width: 100%;
+}
+
+.content {
+    background-color: #455d7a;
+    text-align: center;
+    color: #f95959;
+    padding: 20px;
+    margin: 500px auto;
+    width: fit-content;
+    border: solid #e3e3e3 2px;
+}
+
+p {
+    color: #e3e3e3;
+}
